@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(136): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(276): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(325): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
